@@ -1,2 +1,2 @@
-# kuisioner-shp-morotai
-Prompt 5 Metode Geofisika
+# kuisioner-ahp-morotai
+kuisioner
